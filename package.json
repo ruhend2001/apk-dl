@@ -1,6 +1,6 @@
 {
-    "name": "aptoide-scraper",
-    "version": "1.0.1",
+    "name": "apk-dl",
+    "version": "0.0.1",
     "description": "Search and get apk from aptoide.",
     "main": "app.js",
     "scripts": {
